@@ -8,9 +8,6 @@ This project is a digit classification model trained on the MNIST dataset. It in
 drawn_digit.png
 main.ipynb
 mnist_digit_classifier.pth
-data/
-    MNIST/
-        raw/
 testSet/
     img_1.jpg
     img_10.jpg
